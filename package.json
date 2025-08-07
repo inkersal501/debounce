@@ -6,5 +6,10 @@
   "type": "module",
   "keywords": ["debounce", "throttle", "delay", "javascript", "react", "input"],
   "author": "Inkersal Mahendran",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/inkersal501/debounce.git"
+  }, 
+  "homepage": "https://github.com/inkersal501/debounce#readme"
 }

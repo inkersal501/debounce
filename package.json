@@ -1,0 +1,10 @@
+{
+  "name": "debounce-now",
+  "version": "1.0.0",
+  "description": "A tiny, zero-dependency debounce function for JavaScript and React.",
+  "main": "index.js",
+  "type": "module",
+  "keywords": ["debounce", "throttle", "delay", "javascript", "react", "input"],
+  "author": "Inkersal Mahendran",
+  "license": "MIT"
+}
